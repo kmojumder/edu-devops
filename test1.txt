@@ -1,0 +1,1 @@
+This is first git file cared in local working dir
